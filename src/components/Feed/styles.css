@@ -1,0 +1,19 @@
+#image {
+  border-radius: 20px;
+}
+
+#feedContainer {
+}
+
+#feedItemContainer {
+  display: flex;
+  width: 70vw;
+  margin: auto;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+#titleAndLastUpdatedDate {
+  margin: 20px;
+  margin-top: 5px;
+}
